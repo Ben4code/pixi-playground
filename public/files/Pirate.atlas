@@ -1,0 +1,195 @@
+
+Pirate.png
+size: 1841,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm L
+  rotate: true
+  xy: 884, 66
+  size: 165, 207
+  orig: 165, 207
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 1093, 36
+  size: 158, 195
+  orig: 164, 203
+  offset: 6, 8
+  index: -1
+belt
+  rotate: false
+  xy: 499, 35
+  size: 383, 139
+  orig: 383, 146
+  offset: 0, 7
+  index: -1
+body
+  rotate: false
+  xy: 499, 176
+  size: 378, 252
+  orig: 378, 252
+  offset: 0, 0
+  index: -1
+boot L
+  rotate: false
+  xy: 1383, 27
+  size: 147, 91
+  orig: 149, 93
+  offset: 1, 1
+  index: -1
+boot R
+  rotate: true
+  xy: 1746, 126
+  size: 152, 90
+  orig: 154, 92
+  offset: 1, 1
+  index: -1
+closed eye L
+  rotate: false
+  xy: 1795, 372
+  size: 33, 35
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+closed eye R
+  rotate: false
+  xy: 1015, 19
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+earring
+  rotate: false
+  xy: 1795, 409
+  size: 42, 48
+  orig: 44, 50
+  offset: 1, 1
+  index: -1
+eyebrow L
+  rotate: false
+  xy: 1746, 44
+  size: 92, 80
+  orig: 95, 82
+  offset: 2, 1
+  index: -1
+eyebrow R
+  rotate: true
+  xy: 1532, 5
+  size: 113, 86
+  orig: 115, 89
+  offset: 1, 2
+  index: -1
+fist
+  rotate: true
+  xy: 1253, 2
+  size: 126, 128
+  orig: 128, 131
+  offset: 1, 2
+  index: -1
+groin
+  rotate: false
+  xy: 884, 7
+  size: 129, 57
+  orig: 129, 57
+  offset: 0, 0
+  index: -1
+half-closed eye L
+  rotate: false
+  xy: 1795, 335
+  size: 33, 35
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+half-closed eye R
+  rotate: false
+  xy: 1679, 10
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 14
+  size: 495, 443
+  orig: 495, 443
+  offset: 0, 0
+  index: -1
+hook
+  rotate: true
+  xy: 1577, 280
+  size: 177, 216
+  orig: 179, 218
+  offset: 1, 1
+  index: -1
+leg L
+  rotate: false
+  xy: 1462, 120
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+leg R
+  rotate: false
+  xy: 1253, 130
+  size: 207, 147
+  orig: 207, 147
+  offset: 0, 0
+  index: -1
+lip
+  rotate: false
+  xy: 1156, 436
+  size: 39, 21
+  orig: 41, 23
+  offset: 1, 1
+  index: -1
+mustache
+  rotate: true
+  xy: 1635, 57
+  size: 221, 109
+  orig: 224, 112
+  offset: 2, 2
+  index: -1
+nose
+  rotate: true
+  xy: 1620, 2
+  size: 53, 57
+  orig: 55, 59
+  offset: 1, 1
+  index: -1
+pupil L
+  rotate: true
+  xy: 1383, 120
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+pupil R
+  rotate: false
+  xy: 1830, 395
+  size: 9, 12
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 499, 430
+  size: 655, 27
+  orig: 665, 29
+  offset: 5, 1
+  index: -1
+sword
+  rotate: true
+  xy: 879, 233
+  size: 195, 357
+  orig: 197, 359
+  offset: 1, 1
+  index: -1
+sword_1
+  rotate: true
+  xy: 1238, 279
+  size: 178, 337
+  orig: 197, 359
+  offset: 12, 14
+  index: -1
